@@ -1,6 +1,6 @@
 {
   "name": "version-log-loader",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "Insert version log info to bundle code.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
